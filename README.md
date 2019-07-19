@@ -1,2 +1,2 @@
-# ComcastCoreSpec
-CocoaPods Spec Respository for HGComcastCore
+# CocoaPodSpecs
+Respository for CocoaPod specs
